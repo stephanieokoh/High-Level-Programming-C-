@@ -2,7 +2,7 @@
 
 //——————————————————————————
 
-// ERROR1.syntax lass Token {
+// ERROR1.syntax class Token {
 class Token {
 public:
 char kind;        // what kind of token
